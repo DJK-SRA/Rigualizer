@@ -110,6 +110,6 @@ def register():
         bpy.utils.register_class(panel)
         
 
-#if __name__ == '__main__':
-register()
+if __name__ == '__main__':
+    register()
     
