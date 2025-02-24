@@ -145,8 +145,8 @@ class ActionSelector(bpy.types.Operator):
         return {'FINISHED'}
     
 class TestPanel(bpy.types.Panel):
-    bl_label = "Test Panel"
-    bl_idname = "Test Panel"
+    bl_label = "Rigualizer"
+    bl_idname = "Rigualizer"
     bl_space_type = 'VIEW_3D'
     bl_region_type = 'UI'
     bpy.types.Scene.file_path = bpy.props.StringProperty(name = "File Path", description="Audio File:", subtype='FILE_PATH')
