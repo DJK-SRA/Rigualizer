@@ -8,7 +8,7 @@ This is a one-file plugin for Blender, meaning all you need to run Rigualizer is
 ![rigualizerguide](https://github.com/user-attachments/assets/c68a6eae-312f-4aaa-bb0f-db0465231d1e)
 
 And just like that, you've installed Rigualizer!
-(Note that you'll need to re-run this script every time you re-launch Blender in order to access the sidebar. There are ways to automate this, but ~~didnit's easy enough to look up~~ doing so is trivial and left as an exercise for the reader.
+(Note that you'll need to re-run this script every time you re-launch Blender in order to access the sidebar. There are ways to automate this, but ~~I didn't feel like talking about it, plus I don't quite know~~ doing so is trivial and left as an exercise for the reader.
 
 # GETTING STARTED: 
 Now that you've installed Rigualizer, check for a new tab in your sidebar labeled "Misc". If you can click on it and you see the following panel, you'll know you've installed the plugin properly.
